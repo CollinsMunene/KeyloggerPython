@@ -1,5 +1,5 @@
-# nmapPythonAutomation
-Nmap script in python
+# KeyloggerPython
+Keylogger script in python
 
 This is a simple python script that records keyboard inputs.
 The script can then be compiled into an .exe file, and adding an icon using the command
